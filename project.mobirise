@@ -1135,9 +1135,12 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "images/blocks.png",
+              "src": "@PROJECT_PATH@/assets/images/f8931affa6a7a665cc5f7dec197175fd-600x600.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
