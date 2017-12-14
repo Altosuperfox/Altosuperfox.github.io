@@ -408,9 +408,10 @@ undefined {
   background: #2c2c2c;
 }
 .mbr-navbar__section {
+  background: #2c2c2c;
 }
 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2c2c2c;
 }
 }
 
@@ -423,6 +424,12 @@ undefined {
   color: #ffffff;
 }
 .mbr-article {
+  color: #f97352;
+}
+}
+
+#social-buttons2-10 {
+.mbr-header__text {
   color: #f97352;
 }
 }
@@ -596,9 +603,10 @@ padding-bottom: (@paddingBottom * 15px);
   background: #2c2c2c;
 }
 .mbr-navbar__section {
+  background: #2c2c2c;
 }
 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2c2c2c;
 }
 }
 
@@ -618,9 +626,10 @@ P {
   background: #2c2c2c;
 }
 .mbr-navbar__section {
+  background: #2c2c2c;
 }
 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #2c2c2c;
 }
 }
 
