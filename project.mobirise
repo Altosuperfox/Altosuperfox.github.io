@@ -9,7 +9,9 @@
       "additionalSetColors": [
         "#2c2c2c"
       ]
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/saber-paw-png-128x129.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
