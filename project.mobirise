@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 48,
     "versionPublish": "4.5.2",
@@ -434,7 +434,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -474,7 +474,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-q"
         },
@@ -804,7 +804,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -844,7 +844,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-q"
         },
@@ -878,7 +878,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -918,7 +918,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-w"
         },
@@ -1201,7 +1201,7 @@
             "logo": false,
             "showBrand": true,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
@@ -1241,7 +1241,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AltoSuperFox</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-16"
         },
