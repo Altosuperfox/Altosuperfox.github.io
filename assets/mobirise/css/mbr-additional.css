@@ -852,10 +852,16 @@ padding-bottom: (@paddingBottom * 15px);
 }
 }
 
-#header1-1w {
-H1 {
-  text-align: center;
+#msg-box1-2a {
+.mbr-header .mbr-header__text {
+  color: #fff;
 }
+.mbr-article {
+  color: #fff;
+}
+}
+
+#htmlblock-block-29 {
 }
 
 #contacts1-1u {
