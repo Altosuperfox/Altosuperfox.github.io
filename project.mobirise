@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 92,
     "versionPublish": "4.5.2",
@@ -2214,18 +2214,18 @@
             "blockTitle": "<h3>Block Title</h3>",
             "HTMLCode": "<iframe src=\"http://chat.addachat.com/?bgs=on&bg=black&name=Furries&room=YASSHANGOUT!&sidebar=on&format=on&images=on\" height=\"600\" width=\"850\" name=\"gFrameTop\"></iframe>",
             "extEdit": true,
-            "paddingTop": 20,
+            "paddingTop": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#2c2c2c",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Block Title</h3>",
-          "HTMLCode": "<iframe src=\"http://chat.addachat.com/?bgs=on&bg=black&name=Furries&room=YASSHANGOUT!&sidebar=on&format=on&images=on\" height=\"600\" width=\"850\" name=\"gFrameTop\"></iframe>",
+          "HTMLCode": "<p><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-name=\"gFrameTop\" data-mce-p-src=\"http://chat.addachat.com/?bgs=on&amp;bg=black&amp;name=Furries&amp;room=YASSHANGOUT!&amp;sidebar=on&amp;format=on&amp;images=on\"><iframe src=\"http://chat.addachat.com/?bgs=on&amp;bg=black&amp;name=Furries&amp;room=YASSHANGOUT!&amp;sidebar=on&amp;format=on&amp;images=on\" width=\"850\" height=\"600\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span>﻿</p>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
